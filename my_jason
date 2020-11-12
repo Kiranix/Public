@@ -1,3 +1,4 @@
 {
-  "username" : "rodrigove"
+	"Song": "JsonSong",
+	"Artist": "JsonArtist"
 }
